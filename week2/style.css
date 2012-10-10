@@ -54,15 +54,15 @@
 		}
 		.box {
 			width:100px;
-			float:left;
-			padding:10px;
+			float:left; //tells it to occupy as little space as possible on a line
+			padding:10px; //internal space
 			color:#fff;
 			height:50px;
-			margin:10px;
+			margin:10px; //outer space
 			border:3px solid #4889a3;
 		}
 		.box1 {
-			background:#1E3F6E;
+			background:#000000;
 		}
 		.box2 {
 			background:#1E5B6E;
