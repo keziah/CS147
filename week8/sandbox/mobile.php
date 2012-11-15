@@ -24,7 +24,7 @@
 <div data-role="page" id="filter">
 
 	<div data-role="header">
-		<h1>Map!</h1>
+		<h1>Mappity Map!</h1>
 	</div><!-- /header -->
 	
 	<div data-role="content" style="padding:0">	
